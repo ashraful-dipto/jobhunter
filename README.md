@@ -1,2 +1,1 @@
-Job Hunter 
-(Online Job Portal)
+Job Hunter (Online Job Portal)
